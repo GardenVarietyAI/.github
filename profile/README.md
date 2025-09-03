@@ -6,4 +6,6 @@ Currently building [ROSE](https://github.com/GardenVarietyAI/rose).
 
 Based in Montreal, Quebec.
 
-More soon. 🪴
+More soon. 
+
+🪴
