@@ -1,4 +1,4 @@
-# Garden Variety AI �
+# Garden Variety AI
 
 Local-first AI tools.
 
